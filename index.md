@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## Video Signal Processing
+
+## Libraries
+
+# Applications
+NETFLIX amount of data. 
+
+# Resources
+## Literature
+HD-Algorithms
+
+# Digital Color
+Gammuts
+Depth
+
+## Online Courses
+SMPTE Webcasts
+
 
 You can use the [editor on GitHub](https://github.com/cbck/Video-Signal-Processing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
