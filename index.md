@@ -1,4 +1,11 @@
-## Video Signal Processing
+# Commented Linked-List on Video Processing
+This list is intended to support the understanding of 
+
+# Courses 
+
+# Creative Engineers
+
+# Video Signal Processing
 
 ## Libraries
 ffmpeg
