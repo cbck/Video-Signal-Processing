@@ -1,7 +1,16 @@
 # Commented Linked-List on Video Processing
 This list is intended to support the understanding of 
 
+# Compression
+# Algorithms
+
+# Codec Analysis
+
+# Image Manipulation and Processing
+openCV
+
 # Courses 
+Stanford
 
 # Creative Engineers
 
@@ -14,6 +23,12 @@ OpenCV
 # Resources
 ## Literature
 HD-Algorithms
+
+CC Image Sources.:
+Wikimedia
+Free Selection (Google Images)
+flickr
+
 
 
 
