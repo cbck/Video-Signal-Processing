@@ -46,9 +46,9 @@ NETFLIX amount of data.
 Amoun of video-conferences.
 Cost Calcuatiton for storage and processing.
 
-
-You can use the [editor on GitHub](https://github.com/cbck/Video-Signal-Processing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Command Line Tools:
+
+
+<!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#hiding-content-with-comments -->
+
+
